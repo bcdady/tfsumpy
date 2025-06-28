@@ -82,5 +82,6 @@ poetry.lock
 # cursor rules
 .cursorrules
 
-
-.task/*
+# TODO and uv
+TODO.md
+uv.lock
